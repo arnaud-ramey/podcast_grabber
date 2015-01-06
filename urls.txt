@@ -1,0 +1,36 @@
+// Svenska (mp3)
+http://api.sr.se/api/rssfeed/rssfeed.aspx?poddfeed=4019
+
+// Deutsch (mp3) - cf http://mediacenter.dw.de/german/podcasts
+http://rss.dw-world.de/xml/podcast_nachrichten
+http://rss.dw.de/xml/DKpodcast_lgn_de
+
+// Radio France (mp3)
+http://radiofrance-podcast.net/podcast09/rss_11074.xml
+http://radiofrance-podcast.net/podcast09/rss_10060.xml
+
+// CNN (mp3)
+http://rss.cnn.com/services/podcasting/newscast/rss.xml
+
+// BBC
+http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml
+
+// Paises en conflicto: (mp3)
+http://www.rtve.es/podcast/radio-5/paises-en-conflicto/SPAICON.xml
+// Ciencia y descubrimiento: (mp3)
+http://www.rtve.es/podcast/radio-5/ciencia-y-descubrimiento/SCIDESC.xml
+
+// Robots - The Podcast for News and Views on Robotics
+http://feeds.feedburner.com/robotspodcast
+
+// tagesschau24 100 sec (mp4)
+//http://www.tagesschau.de/tagesschau24/
+// ZDF Neurichten (mp4)
+//http://www.zdf.de/ZDFmediathek/podcast/222432?view=podcast
+
+
+///////////////// music
+// la cuarta parte
+http://www.rtve.es/api/programas/2006/audios.rss
+// el rimadero
+http://www.rtve.es/api/programas/1958/audios.rss

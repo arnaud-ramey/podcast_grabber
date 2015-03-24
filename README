@@ -2,7 +2,7 @@
                   |    podcast_grabber   |
                   +----------------------+
 
-A simple OpenCV sample for acquiring frames from a camera.
+A program that fetches the latest podcasts from a list of URLs/RSS files.
 
 License :                  see the LICENSE file.
 Authors :                  see the AUTHORS file.

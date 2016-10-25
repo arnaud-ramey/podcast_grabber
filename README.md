@@ -2,6 +2,8 @@
                   |    podcast_grabber   |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/podcast_grabber.svg)](https://travis-ci.org/arnaud-ramey/podcast_grabber)
+
 A program that fetches the latest podcasts from a list of URLs/RSS files.
 
 License :                  see the LICENSE file.
